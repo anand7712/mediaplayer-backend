@@ -1,0 +1,73 @@
+{
+  "videos": [
+    {
+      "caption": "Iluminati",
+      "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "embededLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "caption": "Manasilayo",
+      "imageUrl": "https://i.ytimg.com/vi/AiD6SOOBKZI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCliw_YN4y0pycvEgxtRRVjNmQizw",
+      "embededLink": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "id": 3
+    },
+    {
+      "caption": "Jacobinte Sworgarajyam",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZTOGN2g90ut6ISG7zwz0BW9EmV3lkXehlA&s",
+      "embededLink": "https://www.youtube.com/embed/k9EGbkz6GFU",
+      "id": 5
+    },
+    {
+      "caption": "Athimanoharam",
+      "imageUrl": "https://static.toiimg.com/photo/111920305.cms",
+      "embededLink": "https://www.youtube.com/embed/IKpkXzMxTq0",
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "Caption": "Athimanoharam",
+      "Url": "https://www.youtube.com/embed/IKpkXzMxTq0",
+      "Time": "12/10/2024, 11:08:32",
+      "id": 1
+    },
+    {
+      "Caption": "Iluminati",
+      "Url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "Time": "12/10/2024, 13:30:21",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "category": "malayalam",
+      "allVideos": [
+        {
+          "caption": "Jacobinte Sworgarajyam",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZTOGN2g90ut6ISG7zwz0BW9EmV3lkXehlA&s",
+          "embededLink": "https://www.youtube.com/embed/k9EGbkz6GFU",
+          "id": 5
+        },
+        {
+          "caption": "Iluminati",
+          "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "embededLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 1
+        },
+        {
+          "caption": "Manasilayo",
+          "imageUrl": "https://i.ytimg.com/vi/AiD6SOOBKZI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCliw_YN4y0pycvEgxtRRVjNmQizw",
+          "embededLink": "https://www.youtube.com/embed/AiD6SOOBKZI",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Hindi",
+      "allVideos": [],
+      "id": 2
+    }
+  ]
+}
